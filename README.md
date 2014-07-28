@@ -102,4 +102,11 @@ There are two options for working on a project with someone else: forking and cl
 
 <!-- After they complete the lab... -->
 
-20. Now that you completed your lab, make sure it's all pushed up to your version of the repository on github. After that, we're going to create a pull request. A pull request is the best practice for submitting contribution of work to an open source project. To create a pull request, go to your version of the repository on your github account. We'll click the green button in the top left corner. On the next page, we'll want to enter a comment for the pull request, "completed lab, all tests pass" and click submit. This is how I'll be able to review your work and give you feedback on your code. 
+20. Now that you completed your lab, make sure it's all pushed up to your version of the repository on github.
+
+If you need a reminder:
+`git add <file-name>`
+`git commit -m "comment here"`
+`git push origin master`
+
+ After that, we're going to create a pull request. A pull request is the best practice for submitting contribution of work to an open source project. To create a pull request, go to your version of the repository on your github account. We'll click the green button in the top left corner. On the next page, we'll want to enter a comment for the pull request, "completed lab, all tests pass" and click submit. This is how I'll be able to review your work and give you feedback on your code. 
